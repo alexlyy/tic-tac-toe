@@ -76,7 +76,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ### Creator / Maintainer
 
-Alex Ly ([anniedotexe](https://github.com/alexlyy))
+Alex Ly ([Iam_axre](https://github.com/alexlyy))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
